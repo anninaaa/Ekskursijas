@@ -1,0 +1,52 @@
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+body{
+    background-color: #b9936c;
+
+}
+table{
+    width: 1500px;
+    height: 100px;
+    border:2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(purvs.jpg);
+}
+h3{
+    text-align: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.veido{
+    background-color: rgba(0, 0, 0, 0);
+    margin: 0;
+    position: absolute;
+    top: 22%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.populārs{
+    background-color: rgba(0, 0, 0, 0);
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.purva-bilde{
+    width: 1500px;
+    height: 100px;
+}
+hr{
+    width: 85%;
+}
